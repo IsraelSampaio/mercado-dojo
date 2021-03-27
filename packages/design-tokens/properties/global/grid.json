@@ -1,0 +1,9 @@
+{
+  "grid": {
+    "gutter": {
+      "sm": { "value": "{size.16.value}" },
+      "md": { "value": "{size.24.value}" },
+      "lg": { "value": "{size.140.value}" }
+    }
+  }
+}

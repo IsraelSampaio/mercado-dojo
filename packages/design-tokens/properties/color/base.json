@@ -1,0 +1,29 @@
+{
+  "color": {
+    "principal": {
+      "dark": {
+        "value": "#000000"
+      },
+      "light": {
+        "value": "#FFFFFF"
+      }
+    },
+    "neutral": {
+      "1": {
+        "value": "#29363d"
+      },
+      "2": {
+        "value": "#475f6b"
+      },
+      "3": {
+        "value": "#668899"
+      },
+      "4":{
+        "value":"#C2CFD6"
+      },
+      "5": {
+        "value": "#F0F3F5"
+      }
+    }
+  }
+}

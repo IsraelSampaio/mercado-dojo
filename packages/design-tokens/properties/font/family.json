@@ -1,0 +1,12 @@
+{
+  "font": {
+    "family": {
+      "primary": {
+        "value": "Open Sans, sans-serif"
+      },
+      "secondary": {
+        "value": "Lato, sans-serif"
+      }
+    }
+  }
+}

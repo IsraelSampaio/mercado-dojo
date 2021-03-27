@@ -1,0 +1,33 @@
+{
+    "font": {
+      "size": {
+        "xxxs": {
+          "value": "{size.12.value}"
+          },
+          "xxs":{
+              "value": "{size.14.value}"
+          },
+          "xs":{
+              "value":"{size.16.value}"
+          },
+          "sm":{
+              "value": "{size.18.value}"
+          },
+          "md":{
+              "value": "{size.24.value}"
+          },
+          "lg":{
+              "value": "{size.32.value}"
+          },
+          "xl":{
+              "value": "{size.40.value}"
+          },
+          "xxl":{
+              "value": "{size.56.value}"
+          },
+          "xxxl":{
+            "value": "{size.72.value}"
+          }
+      }
+    }
+  }

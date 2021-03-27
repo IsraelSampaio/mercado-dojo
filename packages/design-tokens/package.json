@@ -1,0 +1,12 @@
+{
+  "name": "@mercado-dojo/design-tokens",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "style-dictionary": "^2.10.3"
+  },
+  "scripts": {
+    "build": "style-dictionary build"
+  }
+}

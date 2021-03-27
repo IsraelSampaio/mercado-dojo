@@ -1,0 +1,13 @@
+{
+  "source": ["properties/**/*.json"],
+  "platforms": {
+    "scss": {
+      "transforms": ["attribute/cti", "name/cti/kebab", "color/hex", "size/rem"],
+      "buildPath": "build/scss/",
+      "files": [{
+        "destination": "_variables.scss",
+        "format": "scss/variables"
+      }]
+    }
+  }
+}

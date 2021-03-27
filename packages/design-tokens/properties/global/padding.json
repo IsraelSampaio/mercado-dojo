@@ -1,0 +1,38 @@
+{
+  "padding": {
+    "inset": {
+      "xxs": {
+        "value": "{size.4.value}"
+      },
+      "xs": {
+        "value": "{size.8.value}"
+      },
+      "sm": {
+        "value": "{size.16.value}"
+      },
+      "md": {
+        "value": "{size.24.value}"
+      },
+      "lg": {
+        "value": "{size.32.value}"
+      },
+      "xl": {
+        "value": "{size.40.value}"
+      }
+    },
+    "squish": {
+      "xs": {
+        "value": "{size.2.value} {size.4.value}"
+      },
+      "sm": {
+        "value": "{size.4.value} {size.8.value}"
+      },
+      "md": {
+        "value": "{size.8.value} {size.16.value}"
+      },
+      "lg": {
+        "value": "{size.16.value} {size.32.value}"
+      }
+    }
+  }
+}
