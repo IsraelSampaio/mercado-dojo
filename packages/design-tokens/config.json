@@ -8,6 +8,22 @@
         "destination": "_variables.scss",
         "format": "scss/variables"
       }]
+    },
+    "json": {
+      "transforms": ["attribute/cti", "name/cti/camel", "color/hex", "size/rem"],
+      "buildPath": "build/json/",
+      "files": [{
+        "destination": "variables.json",
+        "format": "json/flat"
+      }]
+    },
+    "js": {
+      "transformGroup": "js",
+      "buildPath": "./build/javascript/",
+      "files": [{
+        "destination": "variables.js",
+        "format": "javascript/es6"
+      }]
     }
   }
 }

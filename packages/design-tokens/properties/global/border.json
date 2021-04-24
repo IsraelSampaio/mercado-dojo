@@ -1,0 +1,24 @@
+{
+    "border": {
+        "radius": {
+            "0": { "value": "{size.0.value}" },   
+            "1": { "value": "{size.4.value}" },
+            "2": { "value": "{size.8.value}" },
+            "3": { "value": "{size.16.value}" },
+            "4": { "value": "{size.24.value}" },   
+            "5": { "value": "{size.32.value}" }   
+        },
+        "width" : {
+            "0": { "value": "{size.0.value}" },
+            "1": { "value": "{size.1.value}" },
+            "2": { "value": "{size.2.value}" },
+            "3": { "value": "{size.4.value}" },
+            "4": { "value": "{size.8.value}" }
+        },
+        "style" : {
+            "dashed": { "value": "dashed" },
+            "dotted": {"value": "dotted" },
+            "solid": {"value": "solid"}
+        }
+    }
+}
