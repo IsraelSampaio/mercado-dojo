@@ -1,0 +1,342 @@
+{
+    "departments":[
+        {
+            "title": "Tecnologia",
+            "url": "",
+            "subDepartments": {
+                "name": "Tecnologia",
+                "categories": [
+                    {
+                        "id": "MLB1051",
+                        "name": "Celulares e Telefones",
+                        "permalink": "https://www.mercadolivre.com.br/c/celulares-e-telefones#menu=categories",
+                        "children_categories": [
+                            {
+                                "id": "MLB1055",
+                                "name": "Celulares e Smartphones",
+                                "permalink": "https://celulares.mercadolivre.com.br/#menu=categories"
+                            },
+                            {
+                                "id": "MLB3813",
+                                "name": "Acessórios para Celulares",
+                                "permalink": "https://celulares.mercadolivre.com.br/acessorios/#menu=categories"
+                            },
+                            {
+                                "id": "MLB7462",
+                                "name": "Peças para Celular",
+                                "permalink": "https://celulares.mercadolivre.com.br/pecas-celular/#menu=categories"
+                            }
+                        ]
+                    },
+                    {
+                        "id": "MLB1648",
+                        "name": "Informática",
+                        "permalink": "https://www.mercadolivre.com.br/c/informatica#menu=categories",
+                        "children_categories": [
+                            {
+                                "id": "MLB1712",
+                                "name": "Componentes para PC",
+                                "permalink": "https://informatica.mercadolivre.com.br/componentes-pc/#menu=categories"
+                            },
+                            {
+                                "id": "MLB5875",
+                                "name": "Impressão",
+                                "permalink": "https://informatica.mercadolivre.com.br/impressao/#menu=categories"
+                            },
+                            {
+                                "id": "MLB3377",
+                                "name": "Acessórios para Notebook",
+                                "permalink": "https://informatica.mercadolivre.com.br/acessorios-notebook/#menu=categories"
+                            },
+                            {
+                                "id": "MLB1700",
+                                "name": "Conectividade e Redes",
+                                "permalink": "https://informatica.mercadolivre.com.br/conectividade-e-redes/#menu=categories"
+                            },
+                            {
+                                "id": "MLB1723",
+                                "name": "Software",
+                                "permalink": "https://informatica.mercadolivre.com.br/software/#menu=categories"
+                            },
+                            {
+                                "id": "MLB1649",
+                                "name": "Computadores",
+                                "permalink": "https://informatica.mercadolivre.com.br/pc-mesa-computadores/#menu=categories"
+                            },
+                            {
+                                "id": "MLB91757",
+                                "name": "Tablets e Acessórios",
+                                "permalink": "https://informatica.mercadolivre.com.br/tablets-acessorios/#menu=categories"
+                            }
+                        ]
+                    },
+                    {
+                        "id": "MLB1039",
+                        "name": "Câmeras e Acessórios",
+                        "permalink": "https://www.mercadolivre.com.br/c/cameras-e-acessorios#menu=categories",
+                        "children_categories": [
+                            {
+                                "id": "MLB1049",
+                                "name": "Acessórios para Câmeras",
+                                "permalink": "https://cameras.mercadolivre.com.br/acessorios/#menu=categories"
+                            },
+                            {
+                                "id": "MLB191839",
+                                "name": "Câmeras",
+                                "permalink": "https://cameras.mercadolivre.com.br/cameras/#menu=categories"
+                            },
+                            {
+                                "id": "MLB6989",
+                                "name": "Filmadoras",
+                                "permalink": "https://cameras.mercadolivre.com.br/filmadoras/#menu=categories"
+                            }
+                        ]
+                    },
+                    {
+                        "id": "MLB1000",
+                        "name": "Eletrônicos, Áudio e Vídeo",
+                        "permalink": "https://www.mercadolivre.com.br/c/eletronicos-audio-e-video#menu=categories",
+                        "children_categories": [
+                            {
+                                "id": "MLB4887",
+                                "name": "Acessórios para Áudio e Vídeo",
+                                "permalink": "https://eletronicos.mercadolivre.com.br/acessorios-audio-e-video/#menu=categories"
+                            },
+                            {
+                                "id": "MLB3836",
+                                "name": "Áudio Portátil",
+                                "permalink": "https://eletronicos.mercadolivre.com.br/audio-portatil/#menu=categories"
+                            },
+                            {
+                                "id": "MLB6999",
+                                "name": "Componentes Eletrônicos",
+                                "permalink": "https://eletronicos.mercadolivre.com.br/componentes/#menu=categories"
+                            },
+                            {
+                                "id": "MLB3837",
+                                "name": "Equipamento para DJs",
+                                "permalink": "https://eletronicos.mercadolivre.com.br/audio-equipamento-djs/#menu=categories"
+                            },
+                            {
+                                "id": "MLB264065",
+                                "name": "Drones e Acessórios",
+                                "permalink": "https://eletronicos.mercadolivre.com.br/drones-acessorios/#menu=categories"
+                            },
+                            {
+                                "id": "MLB1007",
+                                "name": "Acessórios para TV",
+                                "permalink": "https://eletronicos.mercadolivre.com.br/acessorios-tv/#menu=categories"
+                            },
+                            {
+                                "id": "MLB196208",
+                                "name": "Fones de Ouvido",
+                                "permalink": "https://eletronicos.mercadolivre.com.br/audio-fones-ouvido/#menu=categories"
+                            },
+                            {
+                                "id": "MLB3835",
+                                "name": "Áudio",
+                                "permalink": "https://eletronicos.mercadolivre.com.br/audio/#menu=categories"
+                            },
+                            {
+                                "id": "MLB2830",
+                                "name": "Projetores e Telas",
+                                "permalink": "https://eletronicos.mercadolivre.com.br/projetores-telas/#menu=categories"
+                            }
+                        ]
+                    },
+                    {
+                        "id": "MLB1144",
+                        "name": "Games",
+                        "permalink": "https://www.mercadolivre.com.br/c/games#menu=categories",
+                        "children_categories": [
+                            {
+                                "id": "MLB186456",
+                                "name": "Video Games",
+                                "permalink": "https://games.mercadolivre.com.br/video-games/#menu=categories"
+                            },
+                            {
+                                "id": "MLB51149",
+                                "name": "Fliperamas e Arcade",
+                                "permalink": "https://games.mercadolivre.com.br/fliperamas-e-arcade/#menu=categories"
+                            }
+                        ]
+                    },
+                    {
+                        "id": "MLB1002",
+                        "name": "Televisores",
+                        "permalink": "https://eletronicos.mercadolivre.com.br/televisores/#menu=categories",
+                        "children_categories": [
+                            {
+                                "id": "MLB119276",
+                                "permalink": "#menu=categories"
+                            },
+                            {
+                                "id": "MLB119284",
+                                "permalink": "#menu=categories"
+                            },
+                            {
+                                "id": "MLB123143",
+                                "permalink": "#menu=categories"
+                            }
+                        ]
+                    }
+                ],
+                "sidebar": {
+                    "title": "Lojas oficiais",
+                    "brands": [
+                        {
+                            "official_store_id": 728,
+                            "fantasy_name": "Acer Brasil",
+                            "permalink": "https://loja.mercadolivre.com.br/acer-brasil#menu=categories",
+                            "pictures": {
+                                "id": 29469,
+                                "name": "dynamic_logo",
+                                "url": "http://mla-s1-p.mlstatic.com/733408-MLA26482201454_122017-I.jpg",
+                                "secure_url": "https://http2.mlstatic.com/D_NQ_NP_733408-MLA26482201454_122017-I.jpg"
+                            }
+                        },
+                        {
+                            "official_store_id": 992,
+                            "fantasy_name": "Dell",
+                            "permalink": "https://loja.mercadolivre.com.br/dell#menu=categories",
+                            "pictures": {
+                                "id": 30111,
+                                "name": "dynamic_logo",
+                                "url": "http://mla-s2-p.mlstatic.com/699848-MLA25716427579_062017-I.jpg",
+                                "secure_url": "https://http2.mlstatic.com/D_NQ_NP_699848-MLA25716427579_062017-I.jpg"
+                            }
+                        },
+                        {
+                            "official_store_id": 923,
+                            "fantasy_name": "Lenovo",
+                            "permalink": "https://loja.mercadolivre.com.br/lenovo#menu=categories",
+                            "pictures": {
+                                "id": 29855,
+                                "name": "dynamic_logo",
+                                "url": "http://mla-s1-p.mlstatic.com/630686-MLA32804933940_112019-I.jpg",
+                                "secure_url": "https://http2.mlstatic.com/D_NQ_NP_630686-MLA32804933940_112019-I.jpg"
+                            }
+                        },
+                        {
+                            "official_store_id": 716,
+                            "fantasy_name": "Razer",
+                            "permalink": "https://loja.mercadolivre.com.br/razer#menu=categories",
+                            "pictures": {
+                                "id": 29466,
+                                "name": "dynamic_logo",
+                                "url": "http://mla-s1-p.mlstatic.com/753273-MLA25716360623_062017-I.jpg",
+                                "secure_url": "https://http2.mlstatic.com/D_NQ_NP_753273-MLA25716360623_062017-I.jpg"
+                            }
+                        },
+                        {
+                            "official_store_id": 942,
+                            "fantasy_name": "Fast Shop",
+                            "permalink": "https://loja.mercadolivre.com.br/fast-shop#menu=categories",
+                            "pictures": {
+                                "id": 29954,
+                                "name": "dynamic_logo",
+                                "url": "http://mla-s1-p.mlstatic.com/896123-MLA42846104326_072020-I.jpg",
+                                "secure_url": "https://mla-s1-p.mlstatic.com/896123-MLA42846104326_072020-I.jpg"
+                            }
+                        },
+                        {
+                            "official_store_id": 492,
+                            "fantasy_name": "Lojas Xavier",
+                            "permalink": "https://loja.mercadolivre.com.br/lojas-xavier#menu=categories",
+                            "pictures": {
+                                "id": 31589,
+                                "name": "dynamic_logo",
+                                "url": "http://mla-s2-p.mlstatic.com/741497-MLA25754022984_072017-I.jpg",
+                                "secure_url": "https://http2.mlstatic.com/D_NQ_NP_741497-MLA25754022984_072017-I.jpg"
+                            }
+                        },
+                        {
+                            "official_store_id": 1087,
+                            "fantasy_name": "Miami Store",
+                            "permalink": "https://loja.mercadolivre.com.br/miami-store#menu=categories",
+                            "pictures": {
+                                "id": 30459,
+                                "name": "dynamic_logo",
+                                "url": "http://mla-s1-p.mlstatic.com/659004-MLA27839439401_072018-I.jpg",
+                                "secure_url": "https://http2.mlstatic.com/D_NQ_NP_659004-MLA27839439401_072018-I.jpg"
+                            }
+                        },
+                        {
+                            "official_store_id": 866,
+                            "fantasy_name": "Olist",
+                            "permalink": "https://loja.mercadolivre.com.br/olist#menu=categories",
+                            "pictures": {
+                                "id": 29695,
+                                "name": "dynamic_logo",
+                                "url": "http://mla-s1-p.mlstatic.com/942280-MLA27413662950_052018-I.jpg",
+                                "secure_url": "https://http2.mlstatic.com/D_NQ_NP_942280-MLA27413662950_052018-I.jpg"
+                            }
+                        }
+                    ]
+                }
+            }
+        },
+        {
+          "title": "Casa e Móveis",
+          "url": "https://www.mercadolivre.com.br/c/casa-moveis-e-decoracao#menu=categories"
+        },
+        {
+          "title": "Eletrodomésticos",
+          "url": "https://www.mercadolivre.com.br/c/eletrodomesticos#menu=categories"
+        },
+        {
+          "title": "Esportes e Fitness",
+          "url": "https://www.mercadolivre.com.br/c/esportes-e-fitness#menu=categories"
+        },
+        {
+          "title": "Ferramentas",
+          "url": "https://www.mercadolivre.com.br/c/ferramentas#menu=categories"
+        },
+        {
+          "title": "Construção",
+          "url": "https://www.mercadolivre.com.br/c/construcao#menu=categories"
+        },
+        {
+          "title": "Indústria e Comércio",
+          "url": "https://www.mercadolivre.com.br/c/industria-e-comercio#menu=categories"
+        },
+        {
+          "title": "Saúde",
+          "url": "https://www.mercadolivre.com.br/c/saude#menu=categories"
+        },
+        {
+          "title": "Acessórios para Veículos",
+          "url": "https://www.mercadolivre.com.br/c/acessorios-para-veiculos#menu=categories"
+        },
+        {
+          "title": "Beleza e Cuidado Pessoal",
+          "url": "https://www.mercadolivre.com.br/c/beleza-e-cuidado-pessoal#menu=categories"
+        },
+        {
+          "title": "Moda",
+          "url": "https://www.mercadolivre.com.br/c/calcados-roupas-e-bolsas#menu=categories"
+        },
+        {
+          "title": "Bebês",
+          "url": "https://www.mercadolivre.com.br/c/bebes#menu=categories"
+        },
+        {
+          "title": "Brinquedos",
+          "url": "https://www.mercadolivre.com.br/c/brinquedos-e-hobbies#menu=categories"
+        },
+        {
+          "title": "Imóveis",
+          "url": "https://www.mercadolivre.com.br/imoveis/#menu=categories"
+        },
+        {
+          "title": "Produtos Sustentaveis",
+          "url": "https://www.mercadolivre.com.br/produtos-sustentaveis#menu=categories"
+        },
+        {
+          "title": "Lojas oficiais",
+          "url": "https://www.mercadolivre.com.br/lojas-oficiais#menu=categories"
+        }
+      ]
+
+      
+}

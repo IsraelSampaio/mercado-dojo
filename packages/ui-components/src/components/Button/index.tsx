@@ -4,9 +4,7 @@ import ButtonStyled from './styles'
 
 import Hoc from '../../helpers/hoc'
 
-export interface ButtonProps {
-    title?: string
-}
+import { ButtonProps } from './Button.interface'
 
 const ButtonComponent: React.FC<ButtonProps> = ({ title }) => {
     return (

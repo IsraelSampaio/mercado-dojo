@@ -6,7 +6,7 @@ interface Button extends StyledComponentBase<any, DefaultTheme> {
 
 const ButtonStyled: Button = styled.button`
     outline: none;
-    box-shadow: none;
+    box-shadow: none;.
     cursor: pointer;
 
     border-style: ${props => props.theme.borderStyleSolid};

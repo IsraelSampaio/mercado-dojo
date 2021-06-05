@@ -2,7 +2,8 @@ import React from 'react'
 
 import { Story, Meta } from '@storybook/react'
 
-import { ButtonProps, Button as ButtonComponent } from './'
+import { Button as ButtonComponent } from './'
+import { ButtonProps } from './Button.interface'
 
 const Template: Story<ButtonProps> = args => <ButtonComponent {...args} />
 

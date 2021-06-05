@@ -20,13 +20,6 @@ module.exports = function babelConfig(api) {
             '@babel/plugin-syntax-dynamic-import',
             '@babel/plugin-proposal-optional-chaining'
         ],
-        ignore: [
-            'node_modules',
-            'build',
-            '**/*.stories.*',
-            '**/__tests__',
-            '**/__mocks__',
-            '**/test-utils'
-        ]
+        ignore: ['node_modules', 'build', 'src/components/**/*.stories.tsx']
     }
 }
